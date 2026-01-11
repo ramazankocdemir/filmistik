@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "474907175406",
+    "firebase_url": "https://filmistik-ca0c5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "filmistik-ca0c5",
+    "storage_bucket": "filmistik-ca0c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474907175406:android:84ed529ef6d47733f4c6ff",
+        "android_client_info": {
+          "package_name": "com.example.filmistik_code_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMITXFrkpaB918JDNCP9Sp1XD474cgNvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
